@@ -8,6 +8,7 @@
  * @author Mathew Davies
  * @author Kiall Mac Innes
  * @author Paul Banks
+ * 
  */
 abstract class Sprig_MPTT extends Sprig
 {
